@@ -14,7 +14,7 @@ Currently exploring:
 - 🤖 Deep Learning (CNNs, RNNs, Transformers)
 - 🔬 NLP & LLMs (LLaMA, Qwen, OpenAI)
 - 🤖 Agentic AI Engineering
-- 🧱 MLOps Tools & Model Deployment
+- 🤖 AI Engineering
 
 ---
 

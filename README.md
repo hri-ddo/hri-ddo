@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi there 👋, I'm Zawad Ishmam Hriddo
 
-<!--
-**hri-ddo/hri-ddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year Computer Science student at BRAC University  
+🤖 Aspiring AI Engineer | Research Enthusiast |  
+📍 Based in Dhaka, Bangladesh  
+🔗 [LinkedIn](https://www.linkedin.com/in/zawad-ishmam-hriddo-9b4938171/) |
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building intelligent systems and pushing the boundaries of machine learning and AI. My journey began with self-learning on platforms like Kaggle, and now I'm focused on mastering both the theoretical and practical aspects of Artificial Intelligence, with a special interest in **AGI (Artificial General Intelligence)**.
+
+Currently exploring:
+- 🤖 Deep Learning (CNNs, RNNs, Transformers)
+- 🔬 NLP & LLMs (LLaMA, Qwen, OpenAI)
+- 🤖 Agentic AI Engineering
+- 🧱 MLOps Tools & Model Deployment
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, C++, Bash  
+- **AI/ML:** PyTorch, TensorFlow, Scikit-Learn, YOLO  
+- **NLP:** Hugging Face, LLaMA  
+- **Data Tools:** Pandas, NumPy, XGBoost, Matplotlib  
+- **MLOps:** Docker, Conda, Google Colab  
+- **Dev Tools:** VS Code, Git, GitHub, Ubuntu/macOS  
+- **Robotics:** ROS2 Humble, Gazebo, RViz  
+
+---
+
+### 📈 Projects
+
+- 🧥 **E-Commerce Clothing Classifier** – CNN-based visual recognition model  
+- 🐶 **Dog Breed Identification** – Image classification using PyTorch  
+- 🌦️ **Weather Predictor** – Forecasting using time-series & regression  
+- 🚗 **Car Price Prediction** – ML model using structured data  
+
+---
+### 🔧 Ongoing Projects
+
+- **📘 LLM Engineering **  
+  Hands-on projects: RAG apps, LoRA fine-tuning, agent workflows for research and business automation.
+
+- **🤖 Agentic AI Engineering **  
+  Built AI agents, including:
+  - Career Digital Twin  
+  - SDR Email Agent  
+  - Stock Picker (CrewAI)  
+  - LangGraph Sidekick  
+  - AutoGen Agent Creator
+  - Building multi-agent systems (e.g., trader, sentiment, and risk agents) to simulate financial decision-making.
+
+- **🛠️ AI Engineer **  
+  Projects using Python, Transformers, Hugging Face, LangChain & APIs for real-world AI solutions.
+
+### 📚 Goals
+
+- 🔭 Build AI systems that reason and learn like humans  
+- ⚙️ Develop scalable ML pipelines and master MLOps  
+- 🧪 Contribute to research in Explainable AI and Meta-Learning  
+- 🧑‍🏫 Share knowledge through open-source and tutorials
+
+---
+
+### 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/zawad-ishmam-hriddo-9b4938171/)   
+- ✍️ Email: zawad.ishmam.hriddo@g.bracu.ac.bd  
+---
+
+*“Simplicity is the soul of efficiency.” – Austin Freeman*
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hri-ddo&show_icons=true&theme=radical)
+

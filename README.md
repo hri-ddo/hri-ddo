@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Zawad Ishmam Hriddo
 
-🎓 Second-Year Computer Science student at BRAC University  
+🎓 Third-Year Computer Science student at BRAC University  
 🤖 Aspiring AI Engineer | Research Enthusiast |  
 📍 Based in Dhaka, Bangladesh  
 🔗 [LinkedIn](https://www.linkedin.com/in/zawad-ishmam-hriddo-9b4938171/) |

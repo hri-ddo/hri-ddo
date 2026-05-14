@@ -32,10 +32,12 @@ Currently exploring:
 
 ### 📈 Projects
 
+- 😲 **Fake Face Detection**- CNN-Based Visual Recongnition model
 - 🧥 **E-Commerce Clothing Classifier** – CNN-based visual recognition model  
 - 🐶 **Dog Breed Identification** – Image classification using PyTorch  
 - 🌦️ **Weather Predictor** – Forecasting using time-series & regression  
-- 🚗 **Car Price Prediction** – ML model using structured data  
+- 🚗 **Car Price Prediction** – ML model using structured data
+
 
 ---
 ### 🔧 Ongoing Projects
